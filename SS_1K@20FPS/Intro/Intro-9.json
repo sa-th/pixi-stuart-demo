@@ -1,0 +1,128 @@
+{"frames": {
+
+"Stuart_Intro_frame12.png":
+{
+	"frame": {"x":1223,"y":743,"w":368,"h":574},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":331,"y":26,"w":368,"h":574},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame13.png":
+{
+	"frame": {"x":472,"y":577,"w":377,"h":574},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":329,"y":26,"w":377,"h":574},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame15.png":
+{
+	"frame": {"x":468,"y":1153,"w":453,"h":574},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":324,"y":26,"w":453,"h":574},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame17.png":
+{
+	"frame": {"x":923,"y":1482,"w":565,"h":572},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":322,"y":28,"w":565,"h":572},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame42.png":
+{
+	"frame": {"x":1497,"y":1482,"w":533,"h":565},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":306,"y":35,"w":533,"h":565},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame48.png":
+{
+	"frame": {"x":1,"y":1153,"w":465,"h":574},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":319,"y":26,"w":465,"h":574},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame104.png":
+{
+	"frame": {"x":1,"y":577,"w":469,"h":574},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":26,"w":469,"h":574},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame105.png":
+{
+	"frame": {"x":1,"y":1,"w":480,"h":574},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":281,"y":26,"w":480,"h":574},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame137.png":
+{
+	"frame": {"x":857,"y":1,"w":369,"h":574},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":330,"y":26,"w":369,"h":574},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame173.png":
+{
+	"frame": {"x":1223,"y":1113,"w":367,"h":574},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":328,"y":26,"w":367,"h":574},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame174.png":
+{
+	"frame": {"x":1228,"y":1,"w":369,"h":574},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":328,"y":26,"w":369,"h":574},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame175.png":
+{
+	"frame": {"x":851,"y":577,"w":370,"h":574},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":328,"y":26,"w":370,"h":574},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame176.png":
+{
+	"frame": {"x":483,"y":1,"w":372,"h":574},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":327,"y":26,"w":372,"h":574},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame338.png":
+{
+	"frame": {"x":1228,"y":372,"w":369,"h":574},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":344,"y":26,"w":369,"h":574},
+	"sourceSize": {"w":1024,"h":600}
+}},
+"animations": {
+	"Stuart_Intro_frame": ["Stuart_Intro_frame12.png","Stuart_Intro_frame13.png","Stuart_Intro_frame15.png","Stuart_Intro_frame17.png","Stuart_Intro_frame42.png","Stuart_Intro_frame48.png","Stuart_Intro_frame104.png","Stuart_Intro_frame105.png","Stuart_Intro_frame137.png","Stuart_Intro_frame173.png","Stuart_Intro_frame174.png","Stuart_Intro_frame175.png","Stuart_Intro_frame176.png","Stuart_Intro_frame338.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Intro-9.png",
+	"format": "RGBA8888",
+	"size": {"w":2031,"h":2048},
+	"scale": "1",
+	"related_multi_packs": [ "Intro-0.json", "Intro-1.json", "Intro-2.json", "Intro-3.json", "Intro-4.json", "Intro-5.json", "Intro-6.json", "Intro-7.json", "Intro-8.json", "Intro-10.json", "Intro-11.json", "Intro-12.json", "Intro-13.json", "Intro-14.json", "Intro-15.json", "Intro-16.json", "Intro-17.json", "Intro-18.json", "Intro-19.json", "Intro-20.json", "Intro-21.json", "Intro-22.json", "Intro-23.json", "Intro-24.json", "Intro-25.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:025969591ef52139f96e432a6c129ac1:d3d566ace894f5e91011d4153940ed12:6acb527231954ee269ea2b6dd3822771$"
+}
+}

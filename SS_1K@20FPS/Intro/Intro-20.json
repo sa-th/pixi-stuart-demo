@@ -1,0 +1,128 @@
+{"frames": {
+
+"Stuart_Intro_frame83.png":
+{
+	"frame": {"x":384,"y":1148,"w":358,"h":573},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":335,"y":27,"w":358,"h":573},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame205.png":
+{
+	"frame": {"x":1123,"y":1145,"w":376,"h":572},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":324,"y":28,"w":376,"h":572},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame206.png":
+{
+	"frame": {"x":1501,"y":575,"w":376,"h":572},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":324,"y":28,"w":376,"h":572},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame207.png":
+{
+	"frame": {"x":1349,"y":1,"w":378,"h":572},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":323,"y":28,"w":378,"h":572},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame208.png":
+{
+	"frame": {"x":771,"y":765,"w":378,"h":572},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":323,"y":28,"w":378,"h":572},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame209.png":
+{
+	"frame": {"x":775,"y":1,"w":380,"h":572},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":322,"y":28,"w":380,"h":572},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame210.png":
+{
+	"frame": {"x":389,"y":574,"w":380,"h":572},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":322,"y":28,"w":380,"h":572},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame211.png":
+{
+	"frame": {"x":1,"y":1145,"w":381,"h":572},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":322,"y":28,"w":381,"h":572},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame212.png":
+{
+	"frame": {"x":775,"y":383,"w":380,"h":572},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":323,"y":28,"w":380,"h":572},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame213.png":
+{
+	"frame": {"x":744,"y":1148,"w":377,"h":572},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":326,"y":28,"w":377,"h":572},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame263.png":
+{
+	"frame": {"x":1501,"y":1149,"w":376,"h":572},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":327,"y":28,"w":376,"h":572},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame265.png":
+{
+	"frame": {"x":389,"y":1,"w":384,"h":571},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":323,"y":29,"w":384,"h":571},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame266.png":
+{
+	"frame": {"x":1,"y":1,"w":386,"h":570},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":322,"y":30,"w":386,"h":570},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame267.png":
+{
+	"frame": {"x":1,"y":573,"w":386,"h":570},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":322,"y":30,"w":386,"h":570},
+	"sourceSize": {"w":1024,"h":600}
+}},
+"animations": {
+	"Stuart_Intro_frame": ["Stuart_Intro_frame83.png","Stuart_Intro_frame205.png","Stuart_Intro_frame206.png","Stuart_Intro_frame207.png","Stuart_Intro_frame208.png","Stuart_Intro_frame209.png","Stuart_Intro_frame210.png","Stuart_Intro_frame211.png","Stuart_Intro_frame212.png","Stuart_Intro_frame213.png","Stuart_Intro_frame263.png","Stuart_Intro_frame265.png","Stuart_Intro_frame266.png","Stuart_Intro_frame267.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Intro-20.png",
+	"format": "RGBA8888",
+	"size": {"w":1878,"h":1722},
+	"scale": "1",
+	"related_multi_packs": [ "Intro-0.json", "Intro-1.json", "Intro-2.json", "Intro-3.json", "Intro-4.json", "Intro-5.json", "Intro-6.json", "Intro-7.json", "Intro-8.json", "Intro-9.json", "Intro-10.json", "Intro-11.json", "Intro-12.json", "Intro-13.json", "Intro-14.json", "Intro-15.json", "Intro-16.json", "Intro-17.json", "Intro-18.json", "Intro-19.json", "Intro-21.json", "Intro-22.json", "Intro-23.json", "Intro-24.json", "Intro-25.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:025969591ef52139f96e432a6c129ac1:d3d566ace894f5e91011d4153940ed12:6acb527231954ee269ea2b6dd3822771$"
+}
+}

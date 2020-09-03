@@ -1,0 +1,128 @@
+{"frames": {
+
+"Stuart_Intro_frame33.png":
+{
+	"frame": {"x":1460,"y":1559,"w":485,"h":567},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":307,"y":33,"w":485,"h":567},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame115.png":
+{
+	"frame": {"x":883,"y":1041,"w":516,"h":575},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":258,"y":25,"w":516,"h":575},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame118.png":
+{
+	"frame": {"x":1460,"y":521,"w":517,"h":575},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":258,"y":25,"w":517,"h":575},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame119.png":
+{
+	"frame": {"x":1460,"y":1040,"w":517,"h":575},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":258,"y":25,"w":517,"h":575},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame120.png":
+{
+	"frame": {"x":1,"y":579,"w":518,"h":575},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":258,"y":25,"w":518,"h":575},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame121.png":
+{
+	"frame": {"x":363,"y":1,"w":518,"h":575},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":258,"y":25,"w":518,"h":575},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame122.png":
+{
+	"frame": {"x":1,"y":1156,"w":518,"h":575},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":258,"y":25,"w":518,"h":575},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame123.png":
+{
+	"frame": {"x":883,"y":1,"w":518,"h":575},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":258,"y":25,"w":518,"h":575},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame124.png":
+{
+	"frame": {"x":1460,"y":1,"w":518,"h":575},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":258,"y":25,"w":518,"h":575},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame125.png":
+{
+	"frame": {"x":883,"y":521,"w":518,"h":575},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":258,"y":25,"w":518,"h":575},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame132.png":
+{
+	"frame": {"x":883,"y":1559,"w":486,"h":575},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":269,"y":25,"w":486,"h":575},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame315.png":
+{
+	"frame": {"x":521,"y":578,"w":360,"h":575},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":343,"y":25,"w":360,"h":575},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame335.png":
+{
+	"frame": {"x":521,"y":1155,"w":360,"h":575},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":350,"y":25,"w":360,"h":575},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame355.png":
+{
+	"frame": {"x":1,"y":1,"w":360,"h":576},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":334,"y":24,"w":360,"h":576},
+	"sourceSize": {"w":1024,"h":600}
+}},
+"animations": {
+	"Stuart_Intro_frame": ["Stuart_Intro_frame33.png","Stuart_Intro_frame115.png","Stuart_Intro_frame118.png","Stuart_Intro_frame119.png","Stuart_Intro_frame120.png","Stuart_Intro_frame121.png","Stuart_Intro_frame122.png","Stuart_Intro_frame123.png","Stuart_Intro_frame124.png","Stuart_Intro_frame125.png","Stuart_Intro_frame132.png","Stuart_Intro_frame315.png","Stuart_Intro_frame335.png","Stuart_Intro_frame355.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Intro-3.png",
+	"format": "RGBA8888",
+	"size": {"w":2036,"h":2046},
+	"scale": "1",
+	"related_multi_packs": [ "Intro-0.json", "Intro-1.json", "Intro-2.json", "Intro-4.json", "Intro-5.json", "Intro-6.json", "Intro-7.json", "Intro-8.json", "Intro-9.json", "Intro-10.json", "Intro-11.json", "Intro-12.json", "Intro-13.json", "Intro-14.json", "Intro-15.json", "Intro-16.json", "Intro-17.json", "Intro-18.json", "Intro-19.json", "Intro-20.json", "Intro-21.json", "Intro-22.json", "Intro-23.json", "Intro-24.json", "Intro-25.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:025969591ef52139f96e432a6c129ac1:d3d566ace894f5e91011d4153940ed12:6acb527231954ee269ea2b6dd3822771$"
+}
+}

@@ -1,0 +1,109 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>Stuart</title>
+</head>
+<script src="js/pixijs/pixi.min.js"></script>
+<script src="node_modules/howler/dist/howler.js"></script>
+
+<body>
+    <style>
+    {
+        padding: 0;
+        margin: 0;
+        overflow: hidden
+    }
+
+    .button{
+        display: block; position: absolute; right: 20px; bottom: 20px; width: 100px; height: 30px;
+    }
+    </style>
+    <div style="z-index:999;">
+        <button id="playButton" class="button" style="display: none; right: 20px; bottom: 20px;">Play</button>
+        <!-- <button id="play20FPS" class="button" style="left: 20px; bottom: 20px;"
+            onclick="window.location.href='1K@20FPS.html'"> Play @20FPS</button> -->
+        <button id="play30FPS" class="button" style="left: 20px; bottom: 60px;"
+            onclick="window.location.href='1K@30FPS.html'"> Play @30FPS</button>
+        <button id="play60FPS" class="button" style="left: 20px; bottom: 100px;"
+            onclick="window.location.href='1K@60FPS.html'"> Play @60FPS</button>
+        <script>
+        var playButton = document.getElementById('playButton');
+
+        const app = new PIXI.Application({
+            resizeTo: window,
+            antialias: false, // default: false
+            transparent: true, // default: false
+            resolution: 1 // default: 1
+        });
+
+
+        document.body.appendChild(app.view);
+
+        window.IntroSound = new Howl({
+            src: ['Intro 0a.m4a'],
+            onend: function(){
+                console.log("Intro sound finished playing.");
+                resetAll();
+            }
+        });
+
+
+        var animIntro;
+
+        for (let i = 0; i < 26; i++) {
+            app.loader.add(`SS_1K@20FPS/Intro/Intro-${i}.json`)
+        }
+
+        app.loader.load(onAssetsLoaded);
+
+
+        function onAssetsLoaded() {
+
+            const frames = [];
+            for (let i = 0; i < 390; i++) {
+                frames.push(PIXI.Texture.from(`Stuart_Intro_frame${i}.png`));
+            }
+
+            const anim = new PIXI.AnimatedSprite(frames);
+            anim.x = app.screen.width / 2;
+            anim.y = app.screen.height / 2;
+            anim.scale.x = 1;
+            anim.scale.y = 1;
+            anim.anchor.set(0.5);
+            anim.animationSpeed = 0.333;
+            anim.loop = false;
+            //anim.play();
+
+            app.stage.addChild(anim);
+            animIntro = anim;
+            activate();
+        }
+
+
+        function activate() {
+            playButton.style.display = 'block';
+            playButton.onclick = playIntro;
+        }
+
+        var introSoundInstance;
+
+        function playIntro() {
+            playButton.style.display = 'none';
+            animIntro.gotoAndPlay(0);
+            setTimeout(function() {
+                window["IntroSound"].play();
+            }, 1250);
+
+        }
+
+        function resetAll() {
+            playButton.style.display = 'block';
+            animIntro.stop();
+        }
+        </script>
+    </div>
+</body>
+
+</html>

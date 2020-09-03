@@ -1,0 +1,144 @@
+{"frames": {
+
+"Stuart_Intro_frame28.png":
+{
+	"frame": {"x":1513,"y":567,"w":493,"h":567},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":306,"y":33,"w":493,"h":567},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame29.png":
+{
+	"frame": {"x":1513,"y":1,"w":516,"h":564},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":306,"y":36,"w":516,"h":564},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame30.png":
+{
+	"frame": {"x":1432,"y":1441,"w":535,"h":564},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":306,"y":36,"w":535,"h":564},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame84.png":
+{
+	"frame": {"x":361,"y":1136,"w":358,"h":574},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":335,"y":26,"w":358,"h":574},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame85.png":
+{
+	"frame": {"x":933,"y":721,"w":358,"h":574},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":335,"y":26,"w":358,"h":574},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame86.png":
+{
+	"frame": {"x":933,"y":1081,"w":358,"h":574},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":335,"y":26,"w":358,"h":574},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame164.png":
+{
+	"frame": {"x":721,"y":1441,"w":357,"h":574},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":335,"y":26,"w":357,"h":574},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame274.png":
+{
+	"frame": {"x":361,"y":721,"w":389,"h":570},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":323,"y":30,"w":389,"h":570},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame289.png":
+{
+	"frame": {"x":1,"y":1,"w":358,"h":574},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":335,"y":26,"w":358,"h":574},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame290.png":
+{
+	"frame": {"x":1,"y":577,"w":358,"h":574},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":335,"y":26,"w":358,"h":574},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame305.png":
+{
+	"frame": {"x":1080,"y":1441,"w":350,"h":574},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":352,"y":26,"w":350,"h":574},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame385.png":
+{
+	"frame": {"x":1,"y":1153,"w":358,"h":574},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":335,"y":26,"w":358,"h":574},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame386.png":
+{
+	"frame": {"x":361,"y":1,"w":358,"h":574},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":335,"y":26,"w":358,"h":574},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame387.png":
+{
+	"frame": {"x":937,"y":1,"w":358,"h":574},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":335,"y":26,"w":358,"h":574},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame388.png":
+{
+	"frame": {"x":361,"y":361,"w":358,"h":574},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":335,"y":26,"w":358,"h":574},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame389.png":
+{
+	"frame": {"x":937,"y":361,"w":358,"h":574},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":335,"y":26,"w":358,"h":574},
+	"sourceSize": {"w":1024,"h":600}
+}},
+"animations": {
+	"Stuart_Intro_frame": ["Stuart_Intro_frame28.png","Stuart_Intro_frame29.png","Stuart_Intro_frame30.png","Stuart_Intro_frame84.png","Stuart_Intro_frame85.png","Stuart_Intro_frame86.png","Stuart_Intro_frame164.png","Stuart_Intro_frame274.png","Stuart_Intro_frame289.png","Stuart_Intro_frame290.png","Stuart_Intro_frame305.png","Stuart_Intro_frame385.png","Stuart_Intro_frame386.png","Stuart_Intro_frame387.png","Stuart_Intro_frame388.png","Stuart_Intro_frame389.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Intro-12.png",
+	"format": "RGBA8888",
+	"size": {"w":2030,"h":2016},
+	"scale": "1",
+	"related_multi_packs": [ "Intro-0.json", "Intro-1.json", "Intro-2.json", "Intro-3.json", "Intro-4.json", "Intro-5.json", "Intro-6.json", "Intro-7.json", "Intro-8.json", "Intro-9.json", "Intro-10.json", "Intro-11.json", "Intro-13.json", "Intro-14.json", "Intro-15.json", "Intro-16.json", "Intro-17.json", "Intro-18.json", "Intro-19.json", "Intro-20.json", "Intro-21.json", "Intro-22.json", "Intro-23.json", "Intro-24.json", "Intro-25.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:025969591ef52139f96e432a6c129ac1:d3d566ace894f5e91011d4153940ed12:6acb527231954ee269ea2b6dd3822771$"
+}
+}

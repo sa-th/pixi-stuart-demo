@@ -1,0 +1,128 @@
+{"frames": {
+
+"Stuart_Intro_frame50.png":
+{
+	"frame": {"x":1,"y":489,"w":392,"h":576},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":324,"y":24,"w":392,"h":576},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame51.png":
+{
+	"frame": {"x":1,"y":1268,"w":380,"h":576},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":325,"y":24,"w":380,"h":576},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame97.png":
+{
+	"frame": {"x":579,"y":820,"w":387,"h":576},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":323,"y":24,"w":387,"h":576},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame98.png":
+{
+	"frame": {"x":579,"y":423,"w":395,"h":576},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":320,"y":24,"w":395,"h":576},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame99.png":
+{
+	"frame": {"x":1157,"y":422,"w":408,"h":576},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":315,"y":24,"w":408,"h":576},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame100.png":
+{
+	"frame": {"x":579,"y":1,"w":420,"h":576},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":309,"y":24,"w":420,"h":576},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame117.png":
+{
+	"frame": {"x":1157,"y":1216,"w":517,"h":575},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":258,"y":25,"w":517,"h":575},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame134.png":
+{
+	"frame": {"x":1,"y":1,"w":486,"h":576},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":276,"y":24,"w":486,"h":576},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame177.png":
+{
+	"frame": {"x":1,"y":1650,"w":375,"h":574},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":328,"y":26,"w":375,"h":574},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame295.png":
+{
+	"frame": {"x":579,"y":1209,"w":380,"h":576},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":321,"y":24,"w":380,"h":576},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame296.png":
+{
+	"frame": {"x":1157,"y":832,"w":382,"h":576},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":317,"y":24,"w":382,"h":576},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame297.png":
+{
+	"frame": {"x":1,"y":883,"w":383,"h":576},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":314,"y":24,"w":383,"h":576},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame298.png":
+{
+	"frame": {"x":579,"y":1591,"w":379,"h":576},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":318,"y":24,"w":379,"h":576},
+	"sourceSize": {"w":1024,"h":600}
+},
+"Stuart_Intro_frame345.png":
+{
+	"frame": {"x":1157,"y":1,"w":419,"h":576},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":305,"y":24,"w":419,"h":576},
+	"sourceSize": {"w":1024,"h":600}
+}},
+"animations": {
+	"Stuart_Intro_frame": ["Stuart_Intro_frame50.png","Stuart_Intro_frame51.png","Stuart_Intro_frame97.png","Stuart_Intro_frame98.png","Stuart_Intro_frame99.png","Stuart_Intro_frame100.png","Stuart_Intro_frame117.png","Stuart_Intro_frame134.png","Stuart_Intro_frame177.png","Stuart_Intro_frame295.png","Stuart_Intro_frame296.png","Stuart_Intro_frame297.png","Stuart_Intro_frame298.png","Stuart_Intro_frame345.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Intro-1.png",
+	"format": "RGBA8888",
+	"size": {"w":1734,"h":2026},
+	"scale": "1",
+	"related_multi_packs": [ "Intro-0.json", "Intro-2.json", "Intro-3.json", "Intro-4.json", "Intro-5.json", "Intro-6.json", "Intro-7.json", "Intro-8.json", "Intro-9.json", "Intro-10.json", "Intro-11.json", "Intro-12.json", "Intro-13.json", "Intro-14.json", "Intro-15.json", "Intro-16.json", "Intro-17.json", "Intro-18.json", "Intro-19.json", "Intro-20.json", "Intro-21.json", "Intro-22.json", "Intro-23.json", "Intro-24.json", "Intro-25.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:025969591ef52139f96e432a6c129ac1:d3d566ace894f5e91011d4153940ed12:6acb527231954ee269ea2b6dd3822771$"
+}
+}
